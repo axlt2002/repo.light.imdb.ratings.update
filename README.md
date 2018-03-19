@@ -19,5 +19,5 @@ In case you found useful my work, feel free to offer me a cappuccino! ;)
 ## Credits
 
 Light IMDb Ratings Update has been inspired by the add-on Rating Update developed by m4x1m.
-A special thanks to phate89 for the development of the tvdbsimple wrapper.
+A special thank to phate89 and celio for the development of the tvdbsimple and tmdbsimple wrappers. 
 Infinite thanks to all the users for helping in debudding, providing ideas and...being patient.

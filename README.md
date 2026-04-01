@@ -1,6 +1,6 @@
 # Light IMDb Ratings Update
 
-Light IMDb Ratings Update is a Kodi add-on that runs as a service to update the ratings, votes and Top 250 for movies as well as the ratings and votes for TV shows (including episodes) by scraping the data from the IMDb site. The update can be run manually or scheduled once a week and it will run as soon as possible after a scheduled start is missed. Please check the add-on thread in the Kodi forum for more details.
+Light IMDb Ratings Update runs as a Kodi service to update the ratings and votes for movies and TV shows (including episodes) using the IMDb Non-Commercial Dataset for ratings. Additionally, it also updates the Top 250 for movies by obtaining the information from IMDb Top250.Informer site. The update can be run manually or scheduled once a week and it will run as soon as possible after a scheduled start is missed. Please check the add-on thread in the Kodi forum for more details.
 
 Developed by axlt2002.
 

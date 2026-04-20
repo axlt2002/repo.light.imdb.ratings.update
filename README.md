@@ -1,6 +1,6 @@
 # Light IMDb Ratings Update
 
-Light IMDb Ratings Update runs as a Kodi service to update the ratings and votes for movies and TV shows (including episodes) using the IMDb Non-Commercial Dataset for ratings (information courtesy of IMDb, https://www.imdb.com, in compliance with related copyright and conditions of use). Additionally, it also updates the Top 250 for movies by obtaining the information from IMDb Top250.Informer site. The update can be run manually or scheduled once a week and it will run as soon as possible after a scheduled start is missed. Please check the add-on thread in the Kodi forum for more details.
+Light IMDb Ratings Update runs as a Kodi service to update the ratings and votes for movies and TV shows (including episodes) using the IMDb Non-Commercial Dataset for ratings (information courtesy of IMDb, https://www.imdb.com, in compliance with related copyright and conditions of use). Additionally, it also updates the Top 250 for movies by obtaining the information from IMDb Top250.Informer site. The update can be launched manually or scheduled daily or weekly and it will run as soon as possible after a scheduled start is missed. Please check the add-on thread in the Kodi forum for more details.
 
 Developed by axlt2002.
 
